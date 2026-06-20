@@ -1,0 +1,12 @@
+app:
+  apis (Store dependence and routers): 
+    - api, dependence
+  core (Database, models, utils):
+    - database, models, utils
+  schemas (Pydantic models):
+    - schemas
+  services (Business logic):
+    - services
+  main.py (Entry point of the application):
+    - main.py
+# Backend README
